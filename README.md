@@ -85,6 +85,12 @@ A few key-point to keep in mind while using **overloader**:
 ## Installing
     pip3 install overloader
 
+or manually clone the repository and install:
+
+    git clone https://github.com/boramalper/overloader.git
+    cd overloader
+    sudo python3 setup.py install
+
 ## Contributing
 * Add support for all the possible type hints that are defined by `typing` module.
 * Code cleanup and general improvements
